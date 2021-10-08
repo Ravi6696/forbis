@@ -1,0 +1,1475 @@
+/* sign in start */
+
+@media (max-width: 991px) {
+	.sign-in-right {
+		display: flex;
+		justify-content: center;
+		vertical-align: middle;
+		align-items: center;
+		order: 2;
+		padding: 70px 0px;
+	}
+
+  .comment-line{
+    width: 100%;
+    margin: 20px 0px !important;
+  }
+}
+
+@media (max-width: 525px) {
+	p.subtext-left {
+		padding: 0px 20px;
+	}
+	p.subtext-left br {
+		display: none;
+	}
+	img.left-logo-line {
+		width: 30%;
+	}
+	.drawer-bar {
+		width: 90%;
+	}
+	.drawer-bar {
+		padding: 15px 15px 15px 0px;
+	}
+	.select-imges-info {
+		width: 100%;
+		padding-left: 15px !important;
+	}
+	body .select-imges-box {
+		margin-left: 0px !important;
+	}
+	.dashboard-list .main-img,
+	.pro-img-section .main-img {
+		height: 250px;
+	}
+	.pink-imginput-btn {
+		right: 7px;
+		width: 200px;
+		top: 15px;
+		transform: scale(0.8);
+	}
+	.select-imges-info,
+	.select-button-info {
+		width: 100% !important;
+		padding-left: 15px;
+	}
+	.responive-flex {
+		display: block !important;
+		padding: 0px;
+	}
+	.sub-btn .parpal-btn-lg,
+	.select-imges-info .parpal-btn-lg {
+		width: auto !important;
+		min-width: 150px !important;
+		margin: 0px auto !important;
+		display: block;
+		line-height: 35px;
+	}
+	h2.foorbis-cheading {
+		margin-bottom: 15px !important;
+		font-size: 23px !important;
+	}
+	.a-prop,
+	.coordonnees,
+	.Horaire,
+	.commentaires {
+		margin-top: 65px !important;
+	}
+	.line-mt {
+		margin-top: 0px;
+	}
+	.foorbis-heading-padding {
+		margin-bottom: 25px !important;
+		font-size: 20px !important;
+	}
+	.agenda .line-mt {
+		margin-top: 20px !important;
+	}
+}
+
+@media (max-width: 340px) {
+	.full-right {
+		max-width: 100%;
+		width: 80%;
+	}
+	img.logo-signin {
+		width: 273px;
+	}
+	.social-media-icon a {
+		padding: 10px;
+	}
+}
+
+
+/* Second Page */
+
+@media (max-width: 1220px) {
+	section#whole-btn .full-right {
+		text-align: center;
+		max-width: 100%;
+		width: 60%;
+	}
+	.responive-btn-flex {
+		display: flex !important;
+		flex-wrap: wrap;
+	}
+}
+
+@media(max-width:1300px) {
+	.horaire-col-row {
+		width: 100%;
+		;
+	}
+}
+
+@media (max-width: 1440px) {
+	section#whole-btn .full-right {
+		text-align: center;
+		max-width: 100%;
+		width: 60%;
+	}
+	.select-imges-info {
+		width: calc(100% - 245px);
+	}
+	.select-imges-box {
+		width: 170px;
+		height: 170px;
+		margin-left: 40px;
+	}
+	img.img-upload {
+		right: -36px;
+	}
+	.select-button-info {
+		width: calc(100% - 210px);
+	}
+}
+
+@media (max-width: 1024px) {
+	section#whole-btn .full-right {
+		text-align: center;
+		max-width: 100%;
+		width: 75%;
+	}
+}
+
+@media (max-width: 320px) {
+	#whole-btn .social-media-icon a {
+		padding: 8px;
+		text-align: center;
+		justify-content: center;
+	}
+}
+
+@media (max-width: 991px) {
+	#whole-btn img.logo-signin {
+		width: 80%;
+	}
+	section#whole-btn .full-right {
+		text-align: center;
+		max-width: 100%;
+		width: 50%;
+	}
+	.sign-in-left {
+		height: auto;
+		padding: 10% 5%;
+	}
+	.left-logo-line {
+		width: 25%;
+	}
+}
+
+@media (max-width: 525px) {
+	section#whole-btn .full-right {
+		text-align: center;
+		max-width: 100%;
+		width: 70%;
+	}
+	#whole-btn .social-media-icon a {
+		padding: 9px;
+		text-align: center;
+		justify-content: center;
+	}
+	.re-block {
+		display: block !important;
+	}
+}
+
+@media (max-width: 360px) {
+	#whole-btn .social-media-icon a {
+		padding: 6px;
+		text-align: center;
+		justify-content: center;
+	}
+	.btn-recrutement {
+		width: 100%;
+	}
+}
+
+
+/* New Responsive Changes */
+
+@media (min-width: 1024px) {
+	img.logo-signin {
+		padding-bottom: 25px;
+		max-width: 58%;
+		margin: 0px auto;
+		display: block;
+		padding-top: 0px;
+	}
+	p.social-head {
+		margin-top: 0% !important;
+	}
+}
+
+@media (min-width: 1920px) {
+	p.social-head {
+		margin-top: 25% !important;
+	}
+}
+
+@media (max-width: 767px) {
+	.foorbis-serchbar {
+		width: 100%;
+	}
+	body .responive-left-menu {
+		display: block !important;
+		margin-top: 63px !important;
+		left: 20px !important;
+		cursor: pointer;
+	}
+	.navbar-brand img {
+		margin-right: 50px;
+	}
+	.foorbis-right-col {
+		justify-content: center;
+		margin-top: 27px;
+		margin-left: 130px;
+	}
+	.foorbis-header-container {
+		width: 100%;
+	}
+	.foorbis-header-container nav {
+		padding: 10px 10px;
+	}
+	.foorbis-header ul.navbar-nav li {
+		padding: 0px 5px;
+	}
+	.foorbis-header ul.navbar-nav li a {
+		font-size: 14px;
+	}
+	.foorbis-header .foorbis-btn {
+		width: 150px;
+	}
+	.foorbis-right-icon img {
+		width: 25px !important;
+	}
+	.foorbis-right-icon {
+		margin: 0px 5px;
+	}
+	.navbar-brand img {
+		width: 120px !important;
+	}
+	.foorbis-serchbar-col {
+		top: -7px;
+		display: flex;
+		width: 100% !important;
+		margin: 0px !important;
+	}
+	.foorbis-serchbar-col input {
+		order: 2;
+		width: 100%;
+		margin-right: 10px;
+		margin-top: 12px;
+		margin-left: 64px !important;
+	}
+	.foorbis-header-container .navbar-toggler {
+		z-index: 999;
+	}
+	#foorbis-menu {
+		margin-top: 47px;
+	}
+	.receive-message .perpal-text-msg,
+	.perpal-text-msg {
+		width: calc(100% - 77px);
+	}
+	p.comment-heding,
+	.entreprises-heading {
+		font-size: 16px;
+	}
+	.blog-scrollbar {
+		margin-bottom: 30px;
+	}
+	.blog-scrollbar .card-mb-5:last-child {
+		margin-bottom: 0px;
+	}
+	.col-md-8.pr-4.blog-scrollbar.scrollbar {
+		padding-right: 15px !important;
+	}
+	.commentaires-mt .comment-box-scroll .mr-5 {
+		margin-right: 15px !important;
+	}
+}
+
+@media (max-width: 1450px) {
+	.navbar-brand img {
+		width: 174px;
+		margin-right: 50px;
+	}
+	.foorbis-header ul.navbar-nav li {
+		padding: 0px 15px;
+	}
+	.foorbis-serchbar-col {
+		width: 35%;
+	}
+	.foorbis-serchbar {
+		width: 54%;
+	}
+}
+
+@media (max-width: 1200px) {
+	.foorbis-right-icon img {
+		width: 30px;
+	}
+	.foorbis-header ul.navbar-nav li {
+		padding: 0px 10px;
+	}
+	.foorbis-header .foorbis-btn {
+		width: 170px;
+		padding: 9px 5px;
+	}
+	.foorbis-penal .createPopup .card {
+		width: 90%;
+	}
+	.recheche-left {
+		width: 100%;
+		padding-right: 0px !important;
+	}
+	.recheche-right-map {
+		width: 100%;
+		float: left;
+		height: 650px;
+	}
+}
+
+@media (max-width: 991px) {
+	.foorbis-serchbar-col {
+		width: 60%;
+		margin-right: 50px;
+	}
+	.responive-left-menu {
+		display: block !important;
+		margin-top: 0px !important;
+		left: -34px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-switch h5 {
+		font-size: 18px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-switch .btnbox {
+		width: 50%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-switch .btnbox .btn {
+		padding: 3px 5px;
+		width: 300px;
+		font-size: 12px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	/* search panel */
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .searchbox {
+		/* border: 2px solid red; */
+		width: 40%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .searchImg {
+		height: 16px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .searchbox input {
+		margin-left: 40px;
+		padding: 3px 0px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .btn {
+		width: 50%;
+		font-size: 12px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .btn .plusImg {
+		height: 16px;
+		margin-right: 15px;
+		/* border: 2px solid red; */
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .filter {
+		width: 30%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .category-btn {
+		padding: 7px 10px;
+		width: 150px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .category-btn .categoryImg {
+		height: 18px;
+		margin-right: 5px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .category-btn .rightImg {
+		margin-left: 10px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .selectedCategories {
+		/* border: 2px solid red; */
+		display: flex;
+		margin-top: 15px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .upr {
+		width: 100%;
+		height: 250px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .btnbox img {
+		height: 15px !important;
+		width: 15px !important;
+		margin-right: 5px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .btnbox a {
+		font-size: 14px;
+	}
+	/* Social Links */
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social {
+		display: flex;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social img {
+		height: 20px !important;
+		width: 20px !important;
+		margin-left: 10px !important;
+		margin-right: 0px !important;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social .box {
+		font-weight: bolder;
+		font-size: 14px;
+	}
+	.foorbis-penal .createPopup .card {
+		height: auto;
+		width: 90%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.foorbis-penal .createPopup .card .header p {
+		font-size: 16px;
+	}
+	.foorbis-penal .createPopup .card .detail,
+	.popup-right-col .content p {
+		font-size: 14px !important;
+	}
+	.foorbis-penal .createPopup .card .date {
+		margin-top: 10px !important;
+	}
+	.foorbis-penal .createPopup .card .date p {
+		font-size: 12px !important;
+	}
+	.foorbis-penal .createPopup .card .transaction {
+		margin-top: 5px !important;
+	}
+	.foorbis-penal .createPopup .card .transaction p {
+		font-size: 12px !important;
+		margin-top: 5px;
+	}
+	.foorbis-penal .createPopup .card .transaction .center img {
+		height: auto !important;
+		width: 50%;
+	}
+	.foorbis-penal .createPopup .card .transaction .left p {
+		margin: 0;
+	}
+	.foorbis-penal .createPopup .card .transaction .right p {
+		margin: 0;
+	}
+	.foorbis-penal .createPopup .card .methods {
+		margin: 0;
+	}
+	.foorbis-penal .createPopup .card .methods p.left {
+		font-size: 10px !important;
+		margin: 0;
+	}
+	.foorbis-penal .createPopup .card .methods .right {
+		font-size: 14px !important;
+	}
+	.foorbis-penal .createPopup .card .methods img {
+		height: 13px !important;
+		margin-right: 5px;
+	}
+	.foorbis-penal .createPopup .card .masterCard {
+		margin-top: 5px;
+		padding: 10px !important;
+	}
+	.foorbis-penal .createPopup .masterCard .image {
+		width: auto;
+		margin: 5px !important;
+	}
+	.foorbis-penal .createPopup .masterCard .image img {
+		height: 25px !important;
+	}
+	.foorbis-penal .createPopup .masterCard .number,
+	.foorbis-penal .createPopup .masterCard .status,
+	.foorbis-penal .createPopup .masterCard .expiry,
+	.foorbis-penal .createPopup .masterCard .name,
+	.foorbis-penal .createPopup .masterCard .name {
+		width: auto;
+		margin: 5px !important;
+	}
+	.foorbis-penal .createPopup .card .masterCard p {
+		font-size: 10px !important;
+		margin: 0;
+	}
+	.foorbis-penal .createPopup .card .condition {
+		margin-top: 12px !important;
+		padding: 5px 0;
+		font-size: 10px;
+	}
+	.foorbis-penal .createPopup .card .condition .right .submitBtn {
+		padding: 5px 30px;
+		font-size: 14px;
+	}
+	.createPopup .cardFooter,
+	.createPopup .condition {
+		margin-bottom: 0px !important;
+	}
+}
+
+
+/* Media query 991px*/
+
+@media screen and (max-width: 992px) {
+	body {
+		overflow-x: hidden;
+	}
+	.foorbis-sidebar {
+		width: 280px;
+		padding: 50px 25px;
+		position: absolute;
+		top: 0px;
+		left: -300px;
+		opacity: 0;
+	}
+	.foorbis-sidebar.foorbis-sidebar-open {
+		z-index: 99999999;
+	}
+	.foorbis-sliderbar-bottom-button {
+		width: 225px;
+	}
+	.foorbis-sliderbar-col-item {
+		padding-bottom: 23px;
+		margin-top: 50px;
+	}
+	.foorbis-sliderbar-col-item ul li {
+		list-style: none;
+		border: 1px solid #fff;
+		padding: 13px 22px;
+		border-radius: 10px;
+		margin-bottom: 35px;
+	}
+	.sidebar-foorbis-btn {
+		width: 225px;
+		display: block;
+		margin: 30px auto;
+	}
+	.foorbis-sliderbar-col-item ul li a {
+		font-size: 16px;
+	}
+	.foorbis-sliderbar-col-item ul li a img {
+		width: 19px;
+	}
+	.foorbis-penal {
+		width: 100%;
+		overflow-x: hidden;
+	}
+	.foorbis-penal .foorbis-penal-all {
+		/* flex-wrap: wrap; */
+		flex-direction: column;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left {
+		width: 100%;
+		margin: 0;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right {
+		width: 100%;
+		margin: 0;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .upr {
+		width: 100%;
+		height: 400px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .lower .content h4 {
+		font-size: 22px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .lower .content h6 {
+		font-size: 18px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .lower .content p {
+		font-size: 16px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .btnbox img {
+		height: 25px;
+		width: 25px;
+		margin-right: 10px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social img {
+		height: 30px;
+		width: 30px;
+		margin: 0 5px 0 15px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter {
+		font-size: 20px;
+	}
+	.foorbis-penal .createPopup .card {
+		max-height: calc(100% - 160px);
+		width: 90%;
+		overflow: auto;
+	}
+	.foorbis-penal .createPopup .card .header {
+		font-size: 22px;
+	}
+	.foorbis-penal .createPopup .card .detail {
+		font-size: 18px;
+	}
+	.foorbis-penal .createPopup .card .date {
+		margin-top: 20px;
+	}
+	.foorbis-penal .createPopup .card .date p {
+		font-size: 18px;
+	}
+	.foorbis-penal .createPopup .card .transaction p {
+		font-size: 16px;
+	}
+	.foorbis-penal .createPopup .card .transaction .center img {
+		height: 30px;
+	}
+	.foorbis-penal .createPopup .card .methods p.left {
+		font-size: 14px;
+	}
+	.foorbis-penal .createPopup .card .methods .right {
+		font-size: 18px;
+	}
+	.foorbis-penal .createPopup .card .methods img {
+		height: 16px;
+	}
+	.foorbis-penal .createPopup .card .masterCard {
+		padding: 20px 0;
+	}
+	.foorbis-penal .createPopup .card .masterCard p {
+		font-size: 18px;
+	}
+	.foorbis-penal .createPopup .card .masterCard .image img {
+		height: 35px;
+	}
+	.foorbis-penal .createPopup .card .condition {
+		margin-top: 30px;
+		font-size: 16px;
+	}
+	.foorbis-penal .createPopup .card .condition .right .submitBtn {
+		padding: 10px 40px;
+	}
+	.pr-col-5 {
+		padding-right: 15px;
+	}
+	.foorbis-penal-all.bg-white {
+		padding: 0px;
+	}
+}
+
+
+/* New Responsive Changes */
+
+@media (min-width: 1024px) {
+	img.logo-signin {
+		padding-bottom: 25px;
+		max-width: 58%;
+		margin: 0px auto;
+		display: block;
+		padding-top: 0px;
+	}
+	p.social-head {
+		margin-top: 0% !important;
+	}
+}
+
+@media (min-width: 1920px) {
+	p.social-head {
+		margin-top: 25% !important;
+	}
+}
+
+@media (max-width: 767px) {
+	.foorbis-serchbar {
+		width: 100%;
+	}
+	.navbar-brand img {
+		margin-right: 50px;
+	}
+	.foorbis-right-col {
+		justify-content: center;
+		margin-top: 27px;
+		margin-left: 130px;
+	}
+	.foorbis-header-container {
+		width: 100%;
+	}
+	.foorbis-header-container nav {
+		padding: 10px 10px;
+	}
+	.foorbis-header ul.navbar-nav li {
+		padding: 0px 5px;
+	}
+	.foorbis-header ul.navbar-nav li a {
+		font-size: 14px;
+	}
+	.foorbis-header .foorbis-btn {
+		width: 150px;
+	}
+	.foorbis-right-icon img {
+		width: 25px !important;
+	}
+	.foorbis-right-icon {
+		margin: 0px 5px;
+	}
+	.navbar-brand img {
+		width: 120px !important;
+	}
+	.foorbis-serchbar-col {
+		top: -7px;
+		display: flex;
+		width: 100% !important;
+		margin: 0px !important;
+	}
+	.foorbis-serchbar-col input {
+		order: 2;
+		width: 98%;
+		margin: 0px auto;
+		margin-top: 12px;
+	}
+	.foorbis-header-container .navbar-toggler {
+		z-index: 999;
+	}
+	#foorbis-menu {
+		margin-top: 47px;
+	}
+	.profil-entreprise-main ul li {
+		padding: 0px 5px;
+		margin-bottom: 10px;
+	}
+	.dashboard-list {
+		margin: 15px 0px;
+	}
+	.responive-dashboard-list {
+		padding: 0px !important;
+	}
+	.aide-btn-px {
+		padding: 0px;
+	}
+}
+
+@media (max-width: 1450px) {
+	.navbar-brand img {
+		width: 174px;
+		margin-right: 50px;
+	}
+	.foorbis-header ul.navbar-nav li {
+		padding: 0px 15px;
+	}
+	.foorbis-serchbar-col {
+		width: 35%;
+	}
+	.foorbis-serchbar {
+		width: 54%;
+	}
+}
+
+@media (max-width: 1200px) {
+	.foorbis-right-icon img {
+		width: 30px;
+	}
+	.foorbis-header ul.navbar-nav li {
+		padding: 0px 10px;
+	}
+	.foorbis-header .foorbis-btn {
+		width: 170px;
+		padding: 9px 5px;
+	}
+}
+
+@media (max-width: 991px) {
+	.foorbis-serchbar-col {
+		width: 60%;
+		margin-right: 50px;
+	}
+}
+
+@media (max-width: 1199px) {
+	.row.full-entreprises {
+		margin-top: 40px;
+	}
+	.fix-height-entreprise {
+		margin-bottom: 0px;
+	}
+	.fix-height-text-msg {
+		margin-top: 0px;
+	}
+	.sms-text-input {
+		margin-bottom: 25px;
+	}
+	.chet-user-panal {
+		margin-bottom: 25px;
+	}
+	.chet-user-panal .all-msg-fix {
+		height: 350px;
+	}
+	.chet-box {
+		padding: 38px 15px 40px 20px !important;
+	}
+	.chet-box .fix-height-text-msg {
+		padding-right: 0px;
+	}
+}
+
+@media (max-width: 575px) {
+	.monprofil-main {
+		padding: 20px 20px 0px;
+	}
+	.monprofile-info-cols {
+		width: 100%;
+		padding-left: 0px;
+		margin-top: 15px;
+	}
+	.monprofil-main {
+		display: block;
+		overflow: hidden;
+	}
+	.singal-message {
+		padding: 28px 15px 20px;
+		position: relative;
+	}
+	.close-message {
+		width: 25px;
+		position: absolute;
+		top: 7px;
+		right: 9px;
+	}
+	.comment-box-row {
+		margin: 0px 15px;
+	}
+	.send-message-btn {
+		width: 85px !important;
+		height: 33px !important;
+		font-size: 12px;
+		margin-left: 15px !important;
+	}
+	.dashbord-switch-col {
+		display: block !important;
+		height: auto !important;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter {
+		display: block;
+		text-align: center;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social {
+		margin-top: 25px;
+		margin-bottom: 15px;
+		justify-content: center;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .lower .header .second h5 {
+		font-size: 21px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards .card {
+		min-width: 225px;
+	}
+	.foorbis-penal .createPopup .card .masterCard {
+		display: block;
+	}
+	.foorbis-penal .createPopup .card .condition {
+		display: block;
+	}
+	.foorbis-penal .createPopup .condition .left {
+		margin-bottom: 15px;
+	}
+	.poup-sumbit-btn {
+		padding: 0px 25px;
+		font-size: 15px;
+		height: 40px;
+		line-height: 40px;
+	}
+	.foorbis-penal .createPopup .header img {
+		height: 14px;
+	}
+	.createPopup .modal-body {
+		padding: 20px;
+	}
+	.popup-right-col .upr.choose-imges {
+		height: 250px !important;
+	}
+  .singal-comment{
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 1500px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left {
+		width: calc(100% - 400px);
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right {
+		width: 400px;
+	}
+	.chet-box {
+		padding: 38px 30px 80px 37px;
+	}
+}
+
+@media (max-width: 1200px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left {
+		width: 100%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right {
+		width: 100%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards .card {
+		margin-right: 45px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .upr {
+		height: 300px;
+	}
+}
+
+@media (max-width: 768px) {
+	.thumbes {
+		display: flex !important;
+		overflow-x: auto !important;
+		width: 100% !important;
+		height: 105px !important;
+		justify-content: space-between !important;
+		margin-top: 10px;
+	}
+	.thumbes .thumb-img {
+		padding-right: 15px;
+	}
+	.ysqare-img {
+		margin-top: 20px;
+	}
+	.dashboard-list {
+		display: block !important;
+	}
+	.responive-item-slider {
+		justify-content: flex-start !important;
+	}
+	.select-imges-box {
+		width: 150px;
+		height: 150px;
+		margin-left: 15px !important;
+	}
+	.img-upload {
+		height: 40px;
+		width: 40px;
+	}
+	.ysqare-img img.img-upload {
+		position: absolute;
+		right: -10px;
+		margin-top: 15px;
+		top: 11px;
+	}
+	.ysqare-img img.update-img {
+		margin-top: 0px;
+	}
+	.select-imges-info {
+		width: calc(100% - 175px);
+		padding-left: 15px !important;
+	}
+	.foorbis-boxshadow {
+		padding: 20px 20px;
+	}
+	.select-title-col {
+		font-size: 25px;
+	}
+	.categorie-text-title {
+		font-size: 20px;
+	}
+}
+
+
+/* 4.01 Header-over-Forum media css start*/
+
+@media (max-width: 1400px) {
+	.foorbis-question-res-box .bg-white {
+		padding: 15px;
+	}
+	.back-white {
+		padding: 15px;
+	}
+}
+
+@media (max-width: 1200px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left {
+		width: 100%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right {
+		width: 100%;
+		padding: 15px;
+	}
+}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 768px) {
+	.rc-text {
+		width: 100%;
+	}
+	.title-que .tq-left h4 {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 576px) {
+	.qb-upper-slide {
+		display: block;
+	}
+	.qb-upper-slide .qb-col {
+		width: 100%;
+		margin-top: 25px;
+	}
+	.title-que .tq-left h4 {
+		font-size: 18px;
+	}
+	.foorbis-question-res-box .que-opts .opt-img {
+		width: 70px;
+		height: 70px;
+	}
+	.resp-sec .resp-title h5 {
+		font-size: 18px;
+	}
+	.rc-box .rc-img {
+		width: 66px;
+		height: 66px;
+	}
+	.vrb-title h4 {
+		font-size: 18px;
+	}
+	.qb-upper-slide .qb-img-opt {
+		width: 100%;
+	}
+	.foorbis-question-res-box .que-opts {
+		display: flex;
+		width: 100%;
+		align-items: center;
+		justify-content: space-between;
+	}
+	.qb-upper-slide .que-opts .opt-rating {
+		margin: 0px;
+	}
+	.qb-upper-slide .que-opts .opt-share {
+		margin: 0px;
+	}
+	.que-buttons {
+		display: inline-block;
+	}
+	.que-buttons .cat-btn {
+		margin-top: 10px;
+		display: inherit;
+		margin: 10px 1rem 0px 1rem;
+	}
+	.que-opts .que-opt-icon {
+		width: 20px;
+		height: 20px;
+	}
+}
+
+@media (max-width: 468px) {
+	.qb-upper-slide .qb-col {
+		width: 92%;
+	}
+	.qb-col {
+		width: calc(100% - 50px);
+	}
+	.qb-img-opt {
+		width: 50px;
+	}
+	.rc-box .rc-img {
+		width: 50px;
+		height: 50px;
+	}
+	.wr-img {
+		width: 50px;
+		height: 50px;
+	}
+	.mf-content .enterprice-img {
+		width: 50px;
+		height: 50px;
+	}
+	.mf-content .centerprice-col {
+		width: calc(100% - 60px);
+	}
+}
+
+
+/* Annonces_Utilisateur-Filtre media css start */
+
+@media (max-width: 1550px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left.announce-penal-left {
+		width: calc(100% - 400px);
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right.announce-penal-right {
+		width: 390px;
+	}
+	.foorbis-penal .foorbis-penal-all .announce-penal-right .card .lower .header .second h5 {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 1460px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards.annouce-cards .col {
+		min-width: 50% !important;
+	}
+}
+
+@media (max-width: 1440px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left.announce-penal-left {
+		width: 100%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards.annouce-cards .col {
+		min-width: 33.33% !important;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right.announce-penal-right {
+		width: 100%;
+		margin: 0 auto;
+		padding: 15px;
+	}
+}
+
+@media (max-width: 1200px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards.annouce-cards .col {
+		min-width: 50% !important;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right.announce-penal-right {
+		width: 100%;
+	}
+}
+
+@media (max-width: 992px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards.annouce-cards .col {
+		min-width: 33.33% !important;
+	}
+}
+
+@media (max-width: 768px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .announce-search .searchbox {
+		width: 60%;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards.annouce-cards .col {
+		min-width: 50% !important;
+	}
+	.foorbis-penal .foorbis-penal-all .announce-penal-right .card .upr {
+		height: 200px;
+	}
+}
+
+@media (max-width: 576px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .announce-search .searchbox {
+		width: 100%;
+	}
+	.favoris-filtre-tab .nav-pills .nav-item.ml-5 {
+		margin-left: 20px !important;
+	}
+	.favoris-filtre-tab .nav-pills .nav-link {
+		width: 150px;
+		font-size: 14px;
+	}
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-right.announce-penal-right,
+	.agenda-input input,
+	.agenda-input {
+		width: 100%;
+	}
+	.box-minmax {
+		width: 100%;
+	}
+	.rs-range {
+		width: 100%;
+	}
+	.select-imges-info {
+		padding-right: 15px !important;
+	}
+	.agenda {
+		margin-top: 60px;
+	}
+}
+
+@media (max-width: 468px) {
+	.foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-announces .cards.annouce-cards .col {
+		min-width: 100% !important;
+	}
+	.foorbis-penal .foorbis-penal-all .announce-penal-right .card .lower .header .first {
+		width: 60px;
+		height: 60px;
+		min-width: 60px;
+	}
+	.foorbis-penal .foorbis-penal-all .announce-penal-right .card .lower .header .second h5 {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 375px) {
+	.favoris-filtre-tab .nav-pills .nav-item.ml-5 {
+		margin-left: 10px !important;
+	}
+	.favoris-filtre-tab .nav-pills .nav-link {
+		width: 120px;
+		font-size: 14px;
+	}
+	.foorbis-btn-group-col a,
+	.foorbis-btn-group-col .foorbis-btn-active:hover {
+		min-width: 125px !important;
+		font-size: 16px;
+		line-height: 27px;
+	}
+	.foorbis-question-head label {
+		font-size: 17px;
+	}
+	.sub-btn .parpal-btn-lg,
+	.select-imges-info .parpal-btn-lg,
+	.agenda-margin .parpal-btn-lg {
+		width: 100%;
+	}
+}
+
+@media (max-width: 320px) {
+	.foorbis-penal .foorbis-penal-all .announce-penal-right .card .lower .header .first {
+		width: 50px;
+		height: 50px;
+		min-width: 50px;
+	}
+}
+
+
+/* Annonces_Utilisateur-Filtre media css end */
+
+
+/*step-css*/
+
+@media(max-width: 991px) {
+	.become-cols {
+		padding: 5% 2%;
+	}
+	.become-col-section {
+		margin-bottom: 15px;
+	}
+	.intitule-item-row.scrollbar {
+		margin-right: -5px;
+		padding-right: 17px;
+		overflow: auto;
+	}
+	.foorbis-intitule-box {
+		padding-right: 0px;
+	}
+	.header-col-input input,
+	.header-col-input select {
+		margin: 7px 0px;
+	}
+}
+
+@media(max-width: 767px) {
+	.steps ul li span {
+		height: 50px;
+		width: 50px;
+		font-size: 18px;
+	}
+	.become-pro-item {
+		padding: 20px 15px;
+	}
+	/* intitule-post-list */
+	.foorbis-btn-group-col a,
+	.foorbis-btn-group-col .foorbis-btn-active:hover {
+		min-width: 187px;
+		height: 47px;
+		display: inline-block;
+		padding: 10px;
+		margin-right: 20px;
+	}
+	.creare-offre-btn {
+		height: 58px;
+		font-size: 16px;
+	}
+	.creare-offre-btn img {
+		width: 22px;
+		margin-right: 15px !important;
+	}
+	.blog-scrollbar {
+		margin-right: 10px;
+	}
+	.col-md-8.pr-4.blog-scrollbar.scrollbar {
+		padding-right: 0px !important;
+	}
+	.foorbis-penal-right.w-100.pt-3 {
+		padding: 0px;
+		padding-right: 10px;
+	}
+	.blog-border-foorbis {
+		width: 100%;
+		float: right;
+	}
+	.over-forum-blog {
+		margin-right: 0px;
+		padding-right: 10px !important;
+	}
+	.over-actualites .row {
+		margin: 0px;
+	}
+	.agenda-margin {
+		margin-top: 25px;
+	}
+	.foorbis-boxshadow.profil-entreprise-main {
+		padding: 20px !important;
+	}
+	.propos-item-col {
+		margin-top: -30px !important;
+	}
+	body .foorbis-boxshadow.profil-entreprise-main {
+		padding: 20px 20px 30px !important;
+	}
+}
+
+@media(max-width:575px) {
+	.paymnet-card-info {
+		padding-right: 0px;
+	}
+	.become-container .parpal-btn {
+		padding: 9px 25px;
+		font-size: 14px;
+	}
+	.add-file-poser {
+		width: 100px;
+		font-size: 16px;
+	}
+	.add-file input {
+		width: calc(100% - 110px);
+	}
+	.DonnerVotreAvis-col h6 {
+		font-size: 20px;
+	}
+	.contrat-check .checkbox-Raison {
+		width: 100%
+	}
+	.rechercher-btn {
+		width: 230px;
+	}
+	/* intitule-post-list */
+	.intitule-sub-cols {
+		display: block;
+		width: 100%;
+		float: left;
+	}
+	.foorbis-btn-group-col a,
+	.foorbis-btn-group-col .foorbis-btn-active:hover {
+		min-width: 155px;
+	}
+	.intitule-info {
+		width: 100% !important;
+	}
+	.intitule-icon {
+		position: absolute;
+		top: 10px;
+		right: 45px;
+	}
+	.intitule-ul li {
+		margin: 2px 0px;
+	}
+	.intitule-img {
+		height: 130px;
+		min-width: 130px;
+		width: 130px;
+		float: left;
+		border-radius: 10px;
+		overflow: hidden;
+	}
+	.intitule-icon a {
+		transform: scale(0.8);
+	}
+	.viorOffre-col {
+		align-items: inherit;
+		display: block;
+	}
+	.intitule-cols .intitule-remove .send-message-btn.refresh-btn {
+		font-size: 14px;
+		width: 110px !important;
+	}
+	.intitule-sub-cols {
+		padding-top: 0px;
+	}
+	.voiroffre-info {
+		padding: 18px 15px 0px;
+		font-size: 18px;
+	}
+	.responive-d-flex {
+		justify-content: center;
+	}
+	body .blog-info-col {
+		padding: 0px 15px !important;
+	}
+	.foorbis-blog-img {
+		height: 250px;
+	}
+	.dashboard-pro .btnbox {
+		width: 164px !important;
+	}
+}
+
+@media(max-width:1450px) {
+	.intitule-icon {
+		margin-right: 10px !important;
+	}
+	.intitule-info {
+		font-family: "MuseoSans-300";
+		padding: 15px;
+		width: calc(100% - 80px);
+	}
+}
+
+@media(max-width:1500px) and (min-width:1200px) {
+	.card-mb-5 {
+		-webkit-box-flex: 0;
+		-ms-flex: 0 0 50%;
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.recheche-left {
+		width: 450px;
+	}
+	.recheche-right-map {
+		width: calc(100% - 450px);
+		float: left;
+	}
+	.viorOffre-col {
+		align-items: inherit;
+	}
+	.viorOffre-col .intitule-info {
+		width: 100%;
+		padding-top: 72px;
+	}
+	.viorOffre-img {
+		margin-top: 72px;
+	}
+}
+
+@media(max-width:1500px) {
+	.blog-social-icon {
+		display: block !important;
+	}
+	.d-flex.responive-d-flex,
+	.blog-social-icon .social {
+		justify-content: center;
+		margin-top: 15px;
+	}
+	.blog-info-col {
+		padding: 0px 25px !important;
+	}
+}
+
+@media(max-width:1700px) {
+	.input-horaire-col {
+		display: block;
+	}
+	.input-horaire-col input {
+		width: 90%;
+	}
+}
