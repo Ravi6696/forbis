@@ -1,0 +1,786 @@
+/* sign in start */
+@media(max-width: 991px){
+	.sign-in-right {
+	    display: flex;
+	    justify-content: center;
+	    vertical-align: middle;
+	    align-items: center;
+	    order: 2;
+	    padding: 70px 0px;
+	}
+}
+@media(max-width: 525px){
+	p.subtext-left {
+	    padding: 0px 20px;
+	}
+	p.subtext-left br {
+	    display: none;
+	}
+	img.left-logo-line {
+	    width: 30%;
+	}
+}
+@media(max-width:340px){
+	.full-right {
+	    max-width: 100%;
+	    width: 80%;
+	}
+	img.logo-signin {
+	    width: 273px;
+	}
+	.social-media-icon a {
+	    padding: 10px;
+	}
+}
+
+/* Second Page */
+@media(max-width:1220px){
+	section#whole-btn .full-right {
+	    text-align: center;
+	    max-width: 100%;
+	    width: 60%;
+	}
+}
+@media(max-width: 1440px){
+	section#whole-btn .full-right {
+	    text-align: center;
+	    max-width: 100%;
+	    width: 60%;
+	}
+}
+@media(max-width: 1024px){
+	section#whole-btn .full-right {
+	    text-align: center;
+	    max-width: 100%;
+	    width: 75%;
+	}
+}
+@media(max-width: 320px){
+	#whole-btn .social-media-icon a {
+	    padding: 8px;
+	    text-align: center;
+	    justify-content: center;
+	}
+}
+@media(max-width: 991px){
+	#whole-btn img.logo-signin {
+	    width: 80%;
+	}
+	section#whole-btn .full-right {
+	    text-align: center;
+	    max-width: 100%;
+	    width: 50%;
+	}
+	.sign-in-left{
+		height: auto;
+    padding: 10% 5%;
+	}
+
+	.left-logo-line{
+		width:25%;
+	}
+}
+@media(max-width: 525px){
+	section#whole-btn .full-right {
+	    text-align: center;
+	    max-width: 100%;
+	    width: 70%;
+	}
+	#whole-btn .social-media-icon a {
+	    padding: 9px;
+	    text-align: center;
+	    justify-content: center;
+	}
+}
+@media(max-width: 360px){
+	#whole-btn .social-media-icon a {
+	    padding: 6px;
+	    text-align: center;
+	    justify-content: center;
+	}
+
+}
+
+/* New Responsive Changes */
+
+@media(min-width: 1024px){
+	img.logo-signin {
+	    padding-bottom: 25px;
+	    max-width: 58%;
+	    margin: 0px auto;
+	    display: block;
+	    padding-top: 0px;
+	}
+	p.social-head {
+	    margin-top: 0% !important;
+	}
+}
+@media(min-width: 1920px){
+	p.social-head {
+	    margin-top: 25% !important;
+	}
+}
+
+
+@media(max-width: 767px){
+	.foorbis-serchbar{
+		width: 100%;
+	}
+    body .responive-left-menu {
+        display: block !important;
+        margin-top: 63px !important;
+        left: 20px !important;
+        cursor: pointer;
+    }
+
+	.navbar-brand img{
+		margin-right: 50px;
+	}
+
+	.foorbis-right-col{
+		justify-content: center;
+	margin-top: 27px;
+		margin-left: 130px;
+	}
+
+	.foorbis-header-container{
+		width: 100%;
+	}
+
+	.foorbis-header-container nav{
+		padding: 10px 10px;
+	}
+
+	.foorbis-header ul.navbar-nav li{
+		    padding: 0px 5px;
+	}
+
+	.foorbis-header ul.navbar-nav li a{
+		font-size: 14px;
+	}
+
+	.foorbis-header .foorbis-btn{
+		width: 150px;
+	}
+
+	.foorbis-right-icon img{
+		width: 25px !important;
+	}
+	.foorbis-right-icon{
+		margin:0px 5px;
+	}
+	.navbar-brand img{
+		width: 120px !important;
+	}
+	.foorbis-serchbar-col{
+	top: -7px;
+	display: flex;
+	width: 100%  !important;
+	    margin: 0px !important;
+	}
+	.foorbis-serchbar-col input{ 	
+        order: 2;
+        width: 100%;
+        margin-right: 10px;
+        margin-top: 12px;
+        margin-left: 64px !important;
+	}
+	.foorbis-header-container .navbar-toggler{
+		z-index: 999;
+	}
+	#foorbis-menu{
+		margin-top: 47px;
+	}
+
+    .receive-message .perpal-text-msg, .perpal-text-msg{
+        width: calc(100% - 77px);
+    }
+
+    p.comment-heding, .entreprises-heading{
+        font-size: 16px;
+    }
+
+}
+
+@media(max-width:1450px){
+	.navbar-brand img {
+	    width: 174px;
+	    margin-right: 50px;
+	}
+	.foorbis-header ul.navbar-nav li {
+	    padding: 0px 15px;
+	}
+
+	.foorbis-serchbar-col{
+		width: 35%;
+	}
+
+	.foorbis-serchbar{
+		width: 54%;
+	}
+}
+
+
+@media(max-width:1200px){
+	.foorbis-right-icon img{
+		width: 30px;
+	}
+
+	.foorbis-header ul.navbar-nav li {
+	    padding: 0px 10px;
+	}
+
+	.foorbis-header .foorbis-btn{
+		width: 170px;
+		padding: 9px 5px;
+	}
+}
+
+@media(max-width:991px){
+	.foorbis-serchbar-col{
+		width: 60%;
+		margin-right:50px;
+	}
+
+    .responive-left-menu{
+        display: block !important;
+        margin-top: 0px !important;
+        left: -34px;
+    }
+}
+
+
+
+@media screen and (max-width:768px){
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-switch h5{
+        font-size: 18px;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-switch .btnbox{
+        width: 50%;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-switch .btnbox .btn{
+        padding: 3px 5px;
+        width: 300px;
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    /* search panel */
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .searchbox{
+        /* border: 2px solid red; */
+        width: 40%;
+    }
+    
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .searchImg{
+        height: 16px;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .searchbox input{
+        margin-left: 30px;
+        padding: 3px 0px;
+    }
+    
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .btn{
+        width: 50%;
+        font-size: 12px;
+    }
+    
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-search .btn .plusImg{
+        height: 16px;
+        margin-right: 15px;
+        /* border: 2px solid red; */
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .filter{
+        width: 30%;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .category-btn{
+        padding: 7px 10px;
+        width: 150px;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .category-btn .categoryImg{
+        height: 18px;
+        margin-right: 5px;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .category-btn .rightImg{
+        margin-left: 10px;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left .foorbis-category .selectedCategories{
+        /* border: 2px solid red; */
+        display: flex;
+        margin-top: 15px;
+    }
+
+
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .upr{
+        width: 100%;
+        height: 250px;
+    }
+
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .btnbox img{
+        height: 15px;
+        width: 15px;
+        margin-right: 5px;
+    }
+    
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .btnbox a{
+        font-size: 14px;
+    }
+    
+    
+    /* Social Links */
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social{
+        display: flex;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social img{
+        height: 15px;
+        width: 15px;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social .box{
+        font-weight: bolder;
+        font-size: 14px;
+    }
+    
+
+    .foorbis-penal .createPopup .card{
+        height: 500px;
+        width: 90%;
+        padding: 10px;
+    }
+    .foorbis-penal .createPopup .card .header{
+        font-size: 16px;
+    }
+
+    .foorbis-penal .createPopup .card .detail{
+        font-size: 12px;
+    }
+    .foorbis-penal .createPopup .card .date{
+        margin-top: 10px;
+    }
+    .foorbis-penal .createPopup .card .date p{
+        font-size: 12px;
+    }
+    .foorbis-penal .createPopup .card .transaction{
+        margin-top: 5px;
+    }
+    .foorbis-penal .createPopup .card .transaction p{
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .foorbis-penal .createPopup .card .transaction .center img{
+        height: 15px;
+    }
+    .foorbis-penal .createPopup .card .transaction .left p{
+        margin: 0;
+    }
+    .foorbis-penal .createPopup .card .transaction .right p{
+        margin: 0;
+    }
+    .foorbis-penal .createPopup .card .methods{
+        margin: 0;
+    }
+
+    .foorbis-penal .createPopup .card .methods p.left{
+        font-size: 10px;
+        margin: 0;
+    }
+    .foorbis-penal .createPopup .card .methods .right{
+        font-size: 14px;
+    }
+    .foorbis-penal .createPopup .card .methods img{
+        height: 13px;
+        margin-right: 5px;
+    }
+    .foorbis-penal .createPopup .card .masterCard{
+        margin-top: 5px;
+        padding: 5px 0;
+    }
+    .foorbis-penal .createPopup .card .masterCard p{
+        font-size: 10px;
+        margin: 0;
+    }
+
+    .foorbis-penal .createPopup .card .condition{
+        margin-top: 10px;
+        padding: 5px 0;
+        font-size: 10px;
+    }
+    
+    
+    .foorbis-penal .createPopup .card .condition .right .submitBtn{
+        padding: 5px 30px;   
+        font-size: 14px; 
+    }
+}
+
+
+
+
+/* Media query 991px*/
+
+@media screen and (max-width:992px){
+    body{
+        overflow-x: hidden;
+    }
+    .foorbis-sidebar{
+        width: 280px;
+        padding: 50px 25px;
+        position: absolute;
+        top: 0px;
+        left:-300px;
+        opacity: 0;
+    }
+
+
+    .foorbis-sidebar.foorbis-sidebar-open{
+        z-index: 99999999;
+    }
+
+    .foorbis-sliderbar-bottom-button{
+        width: 225px;
+    }
+
+    .foorbis-sliderbar-col-item {
+        padding-bottom: 23px;
+        margin-top: 50px;
+    }
+
+
+    .foorbis-sliderbar-col-item ul li{
+            list-style: none;
+    border: 1px solid #fff;
+    padding: 13px 22px;
+    border-radius: 10px;
+    margin-bottom: 35px;
+    }
+
+    .sidebar-foorbis-btn {
+        width: 225px;
+        display: block;
+        margin: 30px auto;
+    }
+
+    .foorbis-sliderbar-col-item ul li a{
+        font-size: 16px;
+    }
+
+    .foorbis-sliderbar-col-item ul li a img {
+        width: 19px;
+    }
+
+    .foorbis-penal{
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    .foorbis-penal .foorbis-penal-all{
+        /* flex-wrap: wrap; */
+        flex-direction: column;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-left{
+        width: 100%;
+        margin: 0;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right{
+        width: 100%;
+        margin: 0;
+    }
+
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .upr{
+        width: 100%;
+        height: 400px;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .lower .content h4{
+        font-size: 22px;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .lower .content h6{
+        font-size: 18px;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .lower .content p{
+        font-size: 16px;
+    }
+
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .btnbox img{
+        height: 25px;
+        width: 25px;
+        margin-right: 10px;
+    }
+
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter .social img{
+        height: 30px;
+        width: 30px;
+        margin:0 5px 0 15px;
+    }
+    .foorbis-penal .foorbis-penal-all .foorbis-penal-right .card .cardFooter{
+        font-size: 20px;
+    }
+
+
+    .foorbis-penal .createPopup .card{
+        height: 650px;
+        width: 90%;
+    }
+    .foorbis-penal .createPopup .card .header{
+        font-size: 22px;
+    }
+
+    .foorbis-penal .createPopup .card .detail{
+        font-size: 18px;
+    }
+    .foorbis-penal .createPopup .card .date{
+        margin-top: 20px;
+    }
+    .foorbis-penal .createPopup .card .date p{
+        font-size: 18px;
+    }
+    .foorbis-penal .createPopup .card .transaction p{
+        font-size: 16px;
+    }
+    .foorbis-penal .createPopup .card .transaction .center img{
+        height: 30px;
+    }
+    .foorbis-penal .createPopup .card .methods p.left{
+        font-size: 14px;
+    }
+    .foorbis-penal .createPopup .card .methods .right{
+        font-size: 18px;
+    }
+    .foorbis-penal .createPopup .card .methods img{
+        height: 16px;
+    }
+    .foorbis-penal .createPopup .card .masterCard{
+        padding: 20px 0;
+    }
+    .foorbis-penal .createPopup .card .masterCard p{
+        font-size: 18px;
+    }
+    .foorbis-penal .createPopup .card .masterCard .image img{
+        height: 35px;
+    }
+    .foorbis-penal .createPopup .card .condition{
+        margin-top: 30px;
+        font-size: 16px;
+    }
+    
+    
+    .foorbis-penal .createPopup .card .condition .right .submitBtn{
+        padding: 10px 40px;    
+    }
+}
+
+
+/* New Responsive Changes */
+
+@media(min-width: 1024px){
+    img.logo-signin {
+        padding-bottom: 25px;
+        max-width: 58%;
+        margin: 0px auto;
+        display: block;
+        padding-top: 0px;
+    }
+    p.social-head {
+        margin-top: 0% !important;
+    }
+}
+@media(min-width: 1920px){
+    p.social-head {
+        margin-top: 25% !important;
+    }
+}
+
+
+@media(max-width: 767px){
+    .foorbis-serchbar{
+        width: 100%;
+    }
+
+   /* .foorbis-sidebar{
+        width: 100%;
+        height: 33px;
+    }*/
+
+    .navbar-brand img{
+        margin-right: 50px;
+    }
+
+    .foorbis-right-col{
+        justify-content: center;
+    margin-top: 27px;
+        margin-left: 130px;
+    }
+
+    .foorbis-header-container{
+        width: 100%;
+    }
+
+    .foorbis-header-container nav{
+        padding: 10px 10px;
+    }
+
+    .foorbis-header ul.navbar-nav li{
+            padding: 0px 5px;
+    }
+
+    .foorbis-header ul.navbar-nav li a{
+        font-size: 14px;
+    }
+
+    .foorbis-header .foorbis-btn{
+        width: 150px;
+    }
+
+    .foorbis-right-icon img{
+        width: 25px !important;
+    }
+
+
+    .foorbis-right-icon{
+        margin:0px 5px;
+    }
+
+    .navbar-brand img{
+        width: 120px !important;
+    }
+
+    .foorbis-serchbar-col{
+    top: -7px;
+    display: flex;
+    width: 100%  !important;
+        margin: 0px !important;
+    }
+
+    .foorbis-serchbar-col input{
+        order: 2;
+        width: 98%;
+        margin: 0px auto;
+        margin-top: 12px;
+    }
+    .foorbis-header-container .navbar-toggler{
+        z-index: 999;
+    }
+
+    #foorbis-menu{
+        margin-top: 47px;
+    }
+}
+
+
+@media(max-width:1450px){
+    .navbar-brand img {
+        width: 174px;
+        margin-right: 50px;
+    }
+    .foorbis-header ul.navbar-nav li {
+        padding: 0px 15px;
+    }
+
+    .foorbis-serchbar-col{
+        width: 35%;
+    }
+
+    .foorbis-serchbar{
+        width: 54%;
+    }
+}
+
+
+@media(max-width:1200px){
+    .foorbis-right-icon img{
+        width: 30px;
+    }
+
+    .foorbis-header ul.navbar-nav li {
+        padding: 0px 10px;
+    }
+
+    .foorbis-header .foorbis-btn{
+        width: 170px;
+        padding: 9px 5px;
+    }
+}
+
+@media(max-width:991px){
+    .foorbis-serchbar-col{
+        width: 60%;
+        margin-right:50px;
+    }
+}
+
+@media(max-width:1199px){
+    .row.full-entreprises{
+        margin-top: 40px;
+    }
+
+    .fix-height-entreprise{
+        margin-bottom: 0px;
+    }
+
+    .fix-height-text-msg{
+        margin-top: 0px;
+    }
+    .sms-text-input {
+        margin-bottom: 25px;
+    }
+}
+
+@media(max-width: 575px){
+    .monprofil-main{
+        padding: 20px 20px 0px;
+    }
+
+    .monprofile-info-cols{
+        width: 100%;
+        padding-left: 0px;
+        margin-top: 15px;
+    }
+
+    .monprofil-main{
+        display: block;
+        overflow: hidden;
+    }
+
+    .singal-message{
+        padding: 28px 15px 20px;
+        position: relative;
+    }
+
+    .close-message {
+        width: 25px;
+        position: absolute;
+        top: 7px;
+        right: 9px;
+    }
+
+    .comment-box-row {
+        margin: 0px 15px;
+    }
+
+    .send-message-btn {
+    width: 85px;
+    height: 33px;
+    font-size: 12px;
+    margin-left: 15px !important;
+}
+
+.dashbord-switch-col{
+    display: block !important;
+    height: auto !important;
+}
+
+}
